@@ -1,8 +1,0 @@
-Team Number
-1_4_T6
-
-ID Student Name (in Arabic) Email
-احمد حسام الدين احمد يوسف 1210188 ahmed.yosef03@eng-st.cu.edu.eg
-عبدالرحمن أيمن أمين محمد 4220123 Abdelrahman.Mohamed032@eng-st.cu.edu.eg
-فاروق ضياء الدين فاروق 4220133	farouq.farouq031@eng-st.cu.edu.eg
-شهاب الدين اسامة احمد 1200175	
