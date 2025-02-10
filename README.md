@@ -24,3 +24,5 @@ Welcome to the Painting for Kids Game project! This project is a fun and educati
 ![](https://drscdn.500px.org/photo/1078605572/q%3D50_h%3D450_of%3D1/v2?sig=ddc07ab18969970758a855b4b3196378476d21a3f6d1623d4fe0d279bd54aa2f)
 
 
+## Contributors  
+Developed as part of Cairo University’s **Programming Techniques** course.  
